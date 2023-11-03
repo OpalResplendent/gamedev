@@ -8,7 +8,7 @@ Personal catalog of contemporary tools, libraries, and middleware commonly used 
 ## Level Editors
 | Editor | Description | Commentary |
 |:---|:---:|:---|
-| [Tiled](https://github.com/mapeditor/tiled | Generic 2d editor. | Crossplatform and all that. |
+| [Tiled](https://github.com/mapeditor/tiled) | Generic 2d editor. | Crossplatform and all that. |
 | [Level Design toolkit (LDtk)](https://github.com/deepnight/ldtk) | Modern generic 2d editor. | Crossplatform and all that. |
 | [Crocotile 3D](https://crocotile3d.com/) | 2d tilemaps in 3d | Closed-source. |
 
