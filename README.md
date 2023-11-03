@@ -18,7 +18,7 @@ Honorable mentions: Blender
 | Editor | Description | Commentary |
 |:---|:---:|:---|
 | [Yarn Spinner](https://github.com/YarnSpinnerTool/YarnSpinner) | Visual/text-based dialog editor. | Easy integration into common engines. |
-| [Ink](https://github.com/inkle/ink) | Text-based markup dialog editor. |  |
+| [Ink](https://github.com/inkle/ink) | Text-based markup dialog editor. | by Inkle! |
 | [Twine](https://github.com/klembot/twinejs) | Visual dialog editor. | Older. |
 
 Honorable mentions: Dialog Designer, Chronicler, Dialogue System for Unity
